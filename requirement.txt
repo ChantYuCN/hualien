@@ -1,0 +1,5 @@
+setuptools>=42.0.0 
+pyinstaller-hooks-contrib>=2025.8
+pyinstaller>=6.16.0
+altgraph>=0.17.4
+packaging>=22.0
